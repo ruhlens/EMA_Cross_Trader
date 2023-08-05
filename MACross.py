@@ -35,7 +35,7 @@ def main():
     avBuyPrice = 0
     avSellPrice = 0
     percentage = 0
-    key = 'cc06epiad3idf21ispa0'
+    key = 'FINNHUB API KEY HERE'
     profit = 0
     while run:
         if keyboard.is_pressed("q"):
